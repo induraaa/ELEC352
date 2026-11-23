@@ -1,0 +1,8 @@
+# Author: Dr Ian S. Howard
+# School of Engineering, Computing and Mathematics
+# University of Plymouth
+
+.pio
+.vscode/
+.DS_Store
+*.textClipping
